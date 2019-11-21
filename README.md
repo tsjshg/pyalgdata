@@ -1,4 +1,4 @@
-# 「Pythonで学ぶアルゴリズムとデータ構造」公開資料
+# [「Pythonで学ぶアルゴリズムとデータ構造」](https://www.kspub.co.jp/book/detail/5178034.html)公開資料
 
 ## Pythonの環境構築
 
