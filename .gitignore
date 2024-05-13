@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+.virtual_documents/
+Untitled.ipynb
+source/.ipynb_checkpoints/
+source/py_html
+source/__pycache__/
+source/notebookutil.py
+source/python-3.7.3-embed-win32.zip
+source/Supplement.ipynb
