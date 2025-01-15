@@ -1,5 +1,7 @@
 # [「Pythonで学ぶアルゴリズムとデータ構造」](https://www.kspub.co.jp/book/detail/5178034.html)公開資料
 
+正誤表は[こちら](errata.txt)です。
+
 ## Pythonの環境構築
 
 Pythonは[PSF（Python Software Foundation）](https://www.python.org/)によって管理され、オープンソースで開発が進められている。Windows、macOS、Linux/UNIXなど多くのOSで動作する。Pythonにはバージョンがあり2系と3系があるが、2系は2019年末でPSFのサポートが終了するため、3系を利用するのが良い。本書のコードは、3.6以上のバージョンで動作する。
